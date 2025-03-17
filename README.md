@@ -8,6 +8,12 @@ Repositório de arquivos e dados sobre o IPCA dos últimos 20 anos.
 <li>Link do notebook</li>
 </ul>
 
+## Arquivo Power BI
+
+<ul>
+<li>ipca</li>
+</ul>
+
 ## Arquivos CSVs gerados no Databricks
 
 <ul>
